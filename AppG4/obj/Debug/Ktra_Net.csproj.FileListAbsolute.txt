@@ -1,0 +1,10 @@
+C:\Users\ThanhHoang\Desktop\net-kt-master\net-kt-master\AppG4\bin\Debug\AppG4.exe.config
+C:\Users\ThanhHoang\Desktop\net-kt-master\net-kt-master\AppG4\bin\Debug\AppG4.exe
+C:\Users\ThanhHoang\Desktop\net-kt-master\net-kt-master\AppG4\bin\Debug\AppG4.pdb
+C:\Users\ThanhHoang\Desktop\net-kt-master\net-kt-master\AppG4\obj\Debug\AppG4.Form1.resources
+C:\Users\ThanhHoang\Desktop\net-kt-master\net-kt-master\AppG4\obj\Debug\AppG4.Properties.Resources.resources
+C:\Users\ThanhHoang\Desktop\net-kt-master\net-kt-master\AppG4\obj\Debug\Ktra_Net.csproj.GenerateResource.cache
+C:\Users\ThanhHoang\Desktop\net-kt-master\net-kt-master\AppG4\obj\Debug\Ktra_Net.csproj.CoreCompileInputs.cache
+C:\Users\ThanhHoang\Desktop\net-kt-master\net-kt-master\AppG4\obj\Debug\AppG4.exe
+C:\Users\ThanhHoang\Desktop\net-kt-master\net-kt-master\AppG4\obj\Debug\AppG4.pdb
+C:\Users\ThanhHoang\Desktop\net-kt-master\net-kt-master\AppG4\obj\Debug\Ktra_Net.csprojAssemblyReference.cache
